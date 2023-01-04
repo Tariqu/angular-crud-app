@@ -18,8 +18,8 @@
   },
   "employees": [
     {
-      "firstName": "Tarique Akhtar",
-      "lastName": "admin@moviecoin.com",
+      "firstName": "Tarique",
+      "lastName": "Akhtar",
       "email": "admin123@gmail.com",
       "dob": "2023-01-03T18:30:00.000Z",
       "gender": "male",
@@ -34,7 +34,7 @@
       "lastName": "user",
       "email": "test@gmail.com",
       "dob": "2022-12-31T18:30:00.000Z",
-      "gender": "",
+      "gender": "male",
       "education": "Diploma",
       "company": "Fake",
       "experience": 4,
