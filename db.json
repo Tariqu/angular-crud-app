@@ -30,16 +30,16 @@
       "id": 1
     },
     {
-      "firstName": "Test",
-      "lastName": "user",
-      "email": "test@gmail.com",
-      "dob": "2022-12-31T18:30:00.000Z",
+      "firstName": "Santosh",
+      "lastName": "Das",
+      "email": "das@gmail.com",
+      "dob": "2022-12-27T18:30:00.000Z",
       "gender": "male",
-      "education": "Diploma",
-      "company": "Fake",
-      "experience": 4,
-      "package": 12,
-      "id": 2
+      "education": "Post Graduate",
+      "company": "Big Company",
+      "experience": 1,
+      "package": 123,
+      "id": 3
     }
   ]
 }
