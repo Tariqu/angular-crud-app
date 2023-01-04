@@ -1,0 +1,45 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "Tarique Akhtar",
+      "lastName": "admin@moviecoin.com",
+      "email": "admin123@gmail.com",
+      "dob": "2023-01-03T18:30:00.000Z",
+      "gender": "male",
+      "education": "Post Graduate",
+      "company": "Google",
+      "experience": 4,
+      "package": 12,
+      "id": 1
+    },
+    {
+      "firstName": "Test",
+      "lastName": "user",
+      "email": "test@gmail.com",
+      "dob": "2022-12-31T18:30:00.000Z",
+      "gender": "",
+      "education": "Diploma",
+      "company": "Fake",
+      "experience": 4,
+      "package": 12,
+      "id": 2
+    }
+  ]
+}
